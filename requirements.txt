@@ -1,0 +1,4 @@
+GitPython
+PyDriller
+pandas
+matplotlib
